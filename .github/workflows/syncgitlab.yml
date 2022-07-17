@@ -17,9 +17,9 @@ jobs:
         # repo url
         target-url: https://gitlab.com/spinater/sync-from-github.git
         # repo username
-        target-username: gitlab+deploy-token-1204574
+        target-username: d2xk12zushx71u:amplify@aws
           # git lab token
-        target-token: QxnC7WZHCPETxivxx73V
+        target-token: V2AhX2LGSnwLzeJDbfU61pJ1DTOB/ZdtkcXtbxnK4kU
         #token : glpat-bULMiWf29dyMESyDcsze
 
         #deploy token : 43xGoif6NMDtzUGeUwYA
