@@ -8,4 +8,4 @@ sync-with-github:
     - git pull origin master
     - git pull github master
     - git status
-    - git push http://root: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@https://github.com/spinater/EncryptionTest.git HEAD:master
+    - git push https://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@github.com/spinater/EncryptionTest.git HEAD:master
