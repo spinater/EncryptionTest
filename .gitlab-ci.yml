@@ -1,0 +1,11 @@
+sync-with-github:
+  before_script:
+    - git config --global user.name "spinater"
+    - git config --global user.email "fu_o_kung.dev@hotmail.com"
+  script:
+    - git remote add github https://github.com/spinater/EncryptionTest.git
+    - git checkout master
+    - git pull origin master
+    - git pull github master
+    - git status
+    - git push http://root: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@https://github.com/spinater/EncryptionTest.git HEAD:master
