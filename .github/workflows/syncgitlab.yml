@@ -2,7 +2,7 @@ name: GitlabSync
 
 on:
   - push
-  - fork
+  # - fork
 
 jobs:
   sync:
